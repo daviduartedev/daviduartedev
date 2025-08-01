@@ -26,4 +26,3 @@
 
 ## 🌐 **Connect**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Davi_Duarte-0077B5?logo=linkedin)](https://www.linkedin.com/in/davi-duarte-8675ba27b/)  
-*"Turning coffee into clean code since 20XX"* ☕→💻  
