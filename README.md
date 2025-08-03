@@ -14,15 +14,5 @@
 ![Framer](https://img.shields.io/badge/Framer-0055FF?logo=framer&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) 
 
----
-
-## 📊 **GitHub Analytics**  
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daviduartedev&layout=compact&theme=nightowl&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)  
-[![My Stats](https://github-readme-stats.vercel.app/api?username=daviduartedev&show_icons=true&theme=nightowl&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
-
----
----
-
 ## 🌐 **Connect**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Davi_Duarte-0077B5?logo=linkedin)](https://www.linkedin.com/in/davi-duarte-8675ba27b/)  
