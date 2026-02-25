@@ -11,7 +11,6 @@
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)  
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white) 
-![Framer](https://img.shields.io/badge/Framer-0055FF?logo=framer&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) 
 
 ## 🌐 **Connect**  
