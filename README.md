@@ -11,7 +11,6 @@
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)  
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) 
 
 ## 🌐 **Connect**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Davi_Duarte-0077B5?logo=linkedin)](https://www.linkedin.com/in/davi-duarte-8675ba27b/)  
